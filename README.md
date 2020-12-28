@@ -7,7 +7,7 @@
 
 
 
-<img align="right" width="40%" src="https://data.whicdn.com/images/6511488/original.gif" alt="Basecamp sky" />
+<img align="right" width="40%" src="https://media2.giphy.com/media/xT3i1acWS2AQRKHgZi/giphy.gif" alt="Basecamp sky" />
 
 <p>
   I'm Danilo Carvalho, Linux Infrastructure Analyst and lover of Python development. 
