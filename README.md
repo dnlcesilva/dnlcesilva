@@ -68,15 +68,6 @@
 
 <br/>
 
-## My latest posts
-
-<br/>
-
-- 📌 [Minha experiência como Bolsista da Digital House by Santander Coders](https://www.linkedin.com/pulse/minha-experi%C3%AAncia-como-bolsista-da-digital-house-coders-mashiba/)<br />
-- 📌 [Meus aprendizados no Basecamp](https://www.linkedin.com/pulse/meus-aprendizados-basecamp-patr%C3%ADcia-mitsuko-mashiba/)
-
-<br/>
-
 ## Coding Activity
 
 <br/>
