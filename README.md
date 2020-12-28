@@ -10,9 +10,8 @@
 <img style="margin: 0 auto" src="https://img.buzzfeed.com/buzzfeed-static/static/2017-06/25/14/asset/buzzfeed-prod-fastlane-02/anigif_sub-buzz-15058-1498415486-2.gif?output-quality=auto&output-format=auto&downsize=360:*" height="200">
 
 
-- 👷 I’m Software Engineer at <a target="_blank" href="https://stefanini.com/pt-br">Stefanni</a>
-- 👨‍🏫 I’m Training Instructor at <a target="_blank" href="http://www.cet.edu.br/">Facldade CET</a>
-- 🤓 I’m Blogger at <a target="_blank" href="https://karanalpe.com.br/">Karanalpe</a>
+- 👷 I’m Linux Infrastructure Analyst at <a target="_blank" href="https://stefanini.com/pt-br">Stefanni</a>
+- 👨‍🏫 I'm graduated from <a target="_blank" href="http://www.cet.edu.br/">Facldade CET</a>
 
 
 # Hi, nice to meet you <img width="30" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" alt="Sunglasses emoji" />
