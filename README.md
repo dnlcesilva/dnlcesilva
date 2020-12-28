@@ -20,7 +20,7 @@
 <p>
   I'm Danilo Carvalho, Linux Infrastructure Analyst and lover of Python development. 
   <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197604.svg" alt="Japan" />
-  <b>Japan</b>, currently living in
+  <b></b>, currently living in
   <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" />
   <b>Brazil</b>.
 </p>
