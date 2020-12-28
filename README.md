@@ -117,7 +117,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mitsu325&show_icons=true&theme=dracula" alt="Mitsu325's github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dnlcesilva=true&theme=dracula" alt="Mitsu325's github stats" />
 </p>
 
 <br/>
