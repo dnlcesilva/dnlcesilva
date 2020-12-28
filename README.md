@@ -34,7 +34,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/danilo-carvalhosilva/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dnlcesilva@gmail.com)](mailto:dnlcesilva@gmail.com)
 
-<br/><br/>
+<br/>
 
 ## My Development Stack
 
@@ -61,7 +61,6 @@
 
 **Business Tools**
 
-<code><img height="32" src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira"/></code>
 <code><img height="32" src="https://232924.apps.zdusercontent.com/232924/assets/1579259063-9eaa196f4d4eeff0ff0c915b800a9730/logo.png" alt="ClickUp"/></code>
 <code><img height="32" src="https://img.icons8.com/color/2x/microsoft-teams.png" alt="Teams"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" alt="Trello"/></code>
