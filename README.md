@@ -20,15 +20,13 @@
 
 ### Talking about Personal Stuffs
 
-- 👩🏻‍🚀 I'm cadet at 42SP;
 
 - 👩🏻‍💻 I’m currently working on something cool :wink:;
 
-- 🌱 I’m currently learning Algorithm in C Language, Angular; 
+- 🌱 I’m currently learning Python3 Language, Angular; 
 
 - 💬 Ask me about anything, I am happy to help;
 
-- 🏆 My favorite challenge is CSS 30 days;
 
 ### Where to find me:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/danilo-carvalhosilva/)
