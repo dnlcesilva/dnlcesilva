@@ -1,11 +1,5 @@
 # dnlcesilva
 
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/danilo-carvalhosilva/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dnlcesilva@gmail.com)](mailto:dnlcesilva@gmail.com)
-
-
-
 ### Hello! Welcome to my profile
 
 - 👷 I’m Linux Infrastructure Analyst at <a target="_blank" href="https://stefanini.com/pt-br">Stefanni</a>
@@ -39,14 +33,8 @@
 - 🏆 My favorite challenge is CSS 30 days;
 
 ### Where to find me:
-
-<a href="https://www.linkedin.com/in/patricia-mashiba/">
-  <code><img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" /></code>
-</a>
-
-<a href="mailto:dev.mitsuko@gmail.com">
-  <code><img alt="My e-mail" width="32" src="https://www.flaticon.com/svg/static/icons/svg/324/324123.svg" /></code>
-</a>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/danilo-carvalhosilva/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dnlcesilva@gmail.com)](mailto:dnlcesilva@gmail.com)
 
 <br/><br/>
 
