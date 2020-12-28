@@ -4,7 +4,7 @@
 
 - 👷 I’m Linux Infrastructure Analyst at <a target="_blank" href="https://stefanini.com/pt-br">Stefanni</a>
 - 👨‍🏫 I'm graduated from <a target="_blank" href="http://www.cet.edu.br/">Facldade CET</a>
-
+<br/>
 
 
 <img align="right" width="40%" src="https://media2.giphy.com/media/xT3i1acWS2AQRKHgZi/giphy.gif" alt="Basecamp sky" />
