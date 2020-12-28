@@ -15,15 +15,6 @@
 - 🤓 I’m Blogger at <a target="_blank" href="https://karanalpe.com.br/">Karanalpe</a>
 
 
-### About
-
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=dnlcesilva&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dnlcesilva&show_icons=true&theme=blue-green)
-
-
-
-
 # Hi, nice to meet you <img width="30" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" alt="Sunglasses emoji" />
 
 <img align="right" width="40%" src="https://media.giphy.com/media/YxdQy6Vxbvb44/giphy.gif" alt="Basecamp sky" />
