@@ -19,5 +19,6 @@
 
 ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=dnlcesilva&show_icons=true)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=dnlcesilva&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dnlcesilva&repo=github-readme-stats)](https://github.com/dnlcesilva/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dnlcesilva)](https://github.com/dnlcesilva/github-readme-stats)
+
 
