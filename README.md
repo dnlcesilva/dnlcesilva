@@ -23,7 +23,7 @@
 
 - 👩🏻‍💻 I’m currently working on something cool :wink:;
 
-- 🌱 I’m currently learning Python3 Language, Angular; 
+- 🌱 I’m currently learning Python3 Language; 
 
 - 💬 Ask me about anything, I am happy to help;
 
