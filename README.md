@@ -7,7 +7,7 @@
 
 
 ### Hello! Welcome to my profile
-<img style="margin: 0 auto" src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" height="200">
+<img style="margin: 0 auto" src="https://img.buzzfeed.com/buzzfeed-static/static/2017-06/25/14/asset/buzzfeed-prod-fastlane-02/anigif_sub-buzz-15058-1498415486-2.gif?output-quality=auto&output-format=auto&downsize=360:*" height="200">
 
 
 - 👷 I’m Software Engineer at <a target="_blank" href="https://www.animati.com.br//">Animati</a>
