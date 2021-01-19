@@ -82,7 +82,7 @@
       <img src="https://badges.pufler.dev/visits/Mitsu325/Mitsu325" alt="Visitors badge" />
    </a>
 </p>
-p align="center">
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnlcesilva&layout=compact" />
 </p>
 
