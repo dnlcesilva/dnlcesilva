@@ -75,7 +75,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=dnlcesilva&show_icons=true&theme=blue-green" />
 </p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnlcesilva&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnlcesilva&show_icons=true&theme=blue-green" />
 </p>
 <br/>
 
