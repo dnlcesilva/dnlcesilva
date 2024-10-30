@@ -1,6 +1,4 @@
-# 👋 Olá! Bem-vindo ao meu perfil!
-
-<img width="30" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" alt="Emoji de óculos de sol" />
+# 👋 Olá! Bem-vindo ao meu perfil! <img width="30" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" alt="Emoji de óculos de sol" />
 
 - 👷 Especialista Linux/DevOps
 - 🎓 Graduado pela [Faculdade CET](http://www.cet.edu.br/)
