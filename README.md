@@ -1,7 +1,6 @@
 # Danilo Carvalho 
 
-### Hello! Welcome to my profile 
-<img width="30" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" alt="Sunglasses emoji" />
+# 👋 Olá! Bem-vindo ao meu perfil! <img width="30" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" alt="Sunglasses emoji" />
 
 - 👷 I’m Linux Infrastructure Analyst at <a target="_blank" href="https://stefanini.com/pt-br">Stefanni</a>
 - 👨‍🏫 I'm graduated from <a target="_blank" href="http://www.cet.edu.br/">Facldade CET</a>
