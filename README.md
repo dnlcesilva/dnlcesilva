@@ -69,7 +69,7 @@ Principais habilidades:
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" alt="Kubernetes"/></code>
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/7/72/SUSE_Logo.png" alt="SUSE Manager" width="90" /></code>
+<code><img height="32" src="[https://upload.wikimedia.org/wikipedia/commons/7/72/SUSE_Logo.png](https://icons8.com/icon/33039/amazon-web-services)" alt="AWS" width="90" /></code>
 <code><img height="32" src="https://1000logos.net/wp-content/uploads/2024/08/Azure-DevOps-Logo.png" alt="Azure DevOps" width="30" /></code>
 
 
